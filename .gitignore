@@ -218,3 +218,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# ignore my jupyter practice folder
+Practice-Code/
